@@ -1,0 +1,65 @@
+body {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    background-color: #D5E1DD;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #2B3E42;
+}
+
+#main {
+    max-width: 800px;
+    margin: auto;
+    background-color: #F7F3E8;
+    padding: 1em .5em 1em .5em;
+}
+
+#img-div {
+    padding-top: 1em;
+    padding-bottom: .5em;
+    color: #F7F3E8;
+    background-color: #747E80; 
+}
+
+#image {
+    display: block;
+    margin: auto;
+    max-width: 650px;
+    width: 100%;
+    height: auto;
+}
+
+#tribute-info {
+    line-height: 1.5em;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    font-style: normal;
+    color: #77BED2;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #F2583E;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #F2583E;
+}
